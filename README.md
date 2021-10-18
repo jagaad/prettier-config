@@ -1,0 +1,1 @@
+# @jagaad/prettier-config
