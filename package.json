@@ -2,7 +2,7 @@
   "name": "@jagaad/prettier-config",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
