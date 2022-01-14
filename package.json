@@ -3,16 +3,8 @@
   "version": "1.0.3",
   "description": "",
   "main": "index.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
-    "version": "npx standard-changelog && git add CHANGELOG.md"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jagaad/prettier-config.git"
-  },
-  "keywords": [],
-  "author": "Andrew Luca",
+  "repository": "https://github.com/jagaad/prettier-config.git",
+  "author": "Jagaad (https://jagaad.it/)",
   "license": "ISC",
   "publishConfig": {
     "access": "public"
