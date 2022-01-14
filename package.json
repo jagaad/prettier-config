@@ -6,6 +6,9 @@
   "repository": "https://github.com/jagaad/prettier-config.git",
   "author": "Jagaad (https://jagaad.it/)",
   "license": "ISC",
+  "scripts": {
+    "test": ""
+  },
   "publishConfig": {
     "access": "public"
   }
