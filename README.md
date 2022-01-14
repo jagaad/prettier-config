@@ -2,6 +2,8 @@
 
 > Jagaad personal [Prettier](https://prettier.io) config.
 
+This config is based on a [poll](https://forms.gle/uS6tihGf6kp2UMRR7) that was voted inside company.
+
 ## Usage
 
 **Install**:
