@@ -7,7 +7,7 @@
   "author": "Jagaad (https://jagaad.it/)",
   "license": "ISC",
   "scripts": {
-    "test": ""
+    "test": "echo 'this is needed for release'"
   },
   "publishConfig": {
     "access": "public"

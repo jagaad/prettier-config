@@ -35,3 +35,9 @@ module.exports = {
   // ...
 };
 ```
+
+## Release new version
+
+```shell
+npx np
+```
