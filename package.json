@@ -1,6 +1,6 @@
 {
   "name": "@jagaad/prettier-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.json",
   "repository": "https://github.com/jagaad/prettier-config.git",
   "author": "Jagaad (https://jagaad.it/)",
