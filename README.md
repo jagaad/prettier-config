@@ -45,6 +45,11 @@ module.exports = {
 
 - [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier)
 
+### Format files on commit
+
+- [husky](https://github.com/typicode/husky)
+- [lint-staged](https://github.com/okonet/lint-staged)
+
 ## Release new version
 
 ```shell
