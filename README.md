@@ -36,6 +36,15 @@ module.exports = {
 };
 ```
 
+### Eslint integration
+
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) (recommened)
+- [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
+
+### Stylelint integration
+
+- [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier)
+
 ## Release new version
 
 ```shell
